@@ -1,0 +1,10 @@
+PORTAL SK BUKIT GASING - GITHUB PAGES
+
+1. Buka repositori GitHub yang mahu digunakan untuk portal pengurusan sekolah.
+2. Pastikan fail index.html dan folder assets berada pada akar (root) repositori.
+3. Upload SEMUA fail di dalam folder ini. Jangan upload fail ZIP tanpa unzip.
+4. Jika sudah ada index.html lama, gantikan dengan index.html ini. Jika sudah ada assets, gantikan/kemas kini fail di dalam folder tersebut.
+5. Dalam Settings > Pages, pilih Deploy from a branch, main, /(root).
+6. Selepas deployment selesai, refresh laman dengan Ctrl+F5.
+
+PENTING: Folder assets mengandungi gambar guru, logo, bendera, infografik dan ilustrasi robot; tanpa folder ini gambar tidak akan muncul.

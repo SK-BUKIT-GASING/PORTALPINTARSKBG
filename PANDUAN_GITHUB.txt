@@ -1,0 +1,1 @@
+Muat naik index.html dan folder assets ke root repositori GitHub Pages. Jangan muat naik ZIP tanpa extract. Galeri boleh ditambah dengan aset aktiviti pada assets/img/galeri/ dan entri dataGaleriSKBG dalam index.html.

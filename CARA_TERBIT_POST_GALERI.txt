@@ -1,0 +1,12 @@
+CARA TAMBAH POST GALERI SKBG
+
+1. Buka portal yang telah diterbitkan di GitHub Pages, kemudian masuk Galeri SKBG.
+2. Klik Tambah Post / Album Baharu.
+3. Isi tajuk, tarikh, kategori, teks dan pilih 1-20 gambar. Klik Simpan Post.
+4. Klik Eksport Data Galeri untuk GitHub. Pelayar memuat turun galeri-posts.json.
+5. Pergi ke repositori GitHub portal sekolah. Muat naik/replace galeri-posts.json di akar repositori (sama lokasi dengan index.html), dan klik Commit changes.
+6. Tunggu GitHub Pages selesai deploy dan buka semula portal. Post akan kelihatan kepada semua.
+
+PENTING: Simpanan draf hanya pada peranti dan pelayar yang digunakan; belum diterbitkan. Eksport menggantikan data JSON sedia ada, jadi sentiasa gunakan portal versi terkini dan simpan salinan backup fail galeri-posts.json.
+Gambar dikompres secara automatik supaya fail JSON lebih kecil, namun GitHub mempunyai had saiz. Jika banyak gambar, bahagi post atau gunakan aset berasingan.
+Pastikan kebenaran menerbitkan gambar murid / pelawat telah diperoleh.
