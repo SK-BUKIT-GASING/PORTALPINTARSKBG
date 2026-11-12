@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sk-bukit-gasing.github.io/PORTALPINTARSKBG/sitemap.xml
